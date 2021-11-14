@@ -1,0 +1,67 @@
+2021-11-14 14:42:00,586 There are 5 philosophers gathered for a dinner
+2021-11-14 14:42:00,587 Philosopher 0 is starving, attempting to eat some food
+2021-11-14 14:42:00,587 Philosopher 0 already owns a Fork 0, he is washing it
+2021-11-14 14:42:00,587 Philosopher 0 already owns a Fork 1, he is washing it
+2021-11-14 14:42:00,587 Philosopher 0 is having dinner
+2021-11-14 14:42:00,587 Philosopher 1 is starving, attempting to eat some food
+2021-11-14 14:42:00,588 Philosopher 1 is waiting for Philosopher 0 to get his Fork 1
+2021-11-14 14:42:00,588 Philosopher 2 is starving, attempting to eat some food
+2021-11-14 14:42:00,588 Philosopher 2 receiving the dirty Fork 2 from Philosopher 1, and washing it
+2021-11-14 14:42:00,588 Philosopher 3 is starving, attempting to eat some food
+2021-11-14 14:42:00,588 Philosopher 2 already owns a Fork 3, he is washing it
+2021-11-14 14:42:00,588 Philosopher 4 is starving, attempting to eat some food
+2021-11-14 14:42:00,589 Philosopher 2 is having dinner
+2021-11-14 14:42:00,589 Philosopher 3 receiving the dirty Fork 3 from Philosopher 2, and washing it
+2021-11-14 14:42:00,589 Philosopher 4 receiving the dirty Fork 4 from Philosopher 3, and washing it
+2021-11-14 14:42:00,589 Philosopher 4 is waiting for Philosopher 0 to get his Fork 0
+2021-11-14 14:42:00,589 Philosopher 3 already owns a Fork 4, he is washing it
+2021-11-14 14:42:00,589 Philosopher 3 is having dinner
+2021-11-14 14:42:03,004 Philosopher 2 is done eating, putting down his forks
+2021-11-14 14:42:03,811 Philosopher 3 is done eating, putting down his forks
+2021-11-14 14:42:05,341 Philosopher 0 is done eating, putting down his forks
+2021-11-14 14:42:05,341 Philosopher 4 receiving Fork 0 and washing it
+2021-11-14 14:42:05,341 Philosopher 4 is having dinner
+2021-11-14 14:42:05,341 Philosopher 1 receiving Fork 1 and washing it
+2021-11-14 14:42:05,341 Philosopher 1 receiving the dirty Fork 2 from Philosopher 2, and washing it
+2021-11-14 14:42:05,341 Philosopher 1 is having dinner
+2021-11-14 14:42:05,705 Philosopher 2 is satisfied with food
+2021-11-14 14:42:06,936 Philosopher 0 is satisfied with food
+2021-11-14 14:42:07,813 Philosopher 3 is satisfied with food
+2021-11-14 14:42:09,133 Philosopher 1 is done eating, putting down his forks
+2021-11-14 14:42:09,353 Philosopher 4 is done eating, putting down his forks
+2021-11-14 14:42:10,694 Philosopher 4 is satisfied with food
+2021-11-14 14:42:10,897 Philosopher 1 is satisfied with food
+2021-11-14 14:43:06,076 There are 5 philosophers gathered for a dinner
+2021-11-14 14:43:06,078 Philosopher 0 is starving, attempting to eat some food
+2021-11-14 14:43:06,078 Philosopher 0 already owns a Fork 0, he is washing it
+2021-11-14 14:43:06,078 Philosopher 1 is starving, attempting to eat some food
+2021-11-14 14:43:06,078 Philosopher 0 already owns a Fork 1, he is washing it
+2021-11-14 14:43:06,078 Philosopher 2 is starving, attempting to eat some food
+2021-11-14 14:43:06,078 Philosopher 0 is having dinner
+2021-11-14 14:43:06,079 Philosopher 2 receiving the dirty Fork 2 from Philosopher 1, and washing it
+2021-11-14 14:43:06,079 Philosopher 3 is starving, attempting to eat some food
+2021-11-14 14:43:06,079 Philosopher 1 receiving the dirty Fork 1 from Philosopher 0, and washing it
+2021-11-14 14:43:06,079 Philosopher 4 is starving, attempting to eat some food
+2021-11-14 14:43:06,079 Philosopher 2 already owns a Fork 3, he is washing it
+2021-11-14 14:43:06,079 Philosopher 1 is waiting for Philosopher 2 to get his Fork 2
+2021-11-14 14:43:06,079 Philosopher 4 receiving the dirty Fork 4 from Philosopher 3, and washing it
+2021-11-14 14:43:06,079 Philosopher 2 is having dinner
+2021-11-14 14:43:06,080 Philosopher 3 receiving the dirty Fork 3 from Philosopher 2, and washing it
+2021-11-14 14:43:06,080 Philosopher 4 is waiting for Philosopher 0 to get his Fork 0
+2021-11-14 14:43:06,080 Philosopher 3 is waiting for Philosopher 4 to get his Fork 4
+2021-11-14 14:43:08,748 Philosopher 2 is done eating, putting down his forks
+2021-11-14 14:43:08,748 Philosopher 1 receiving Fork 2 and washing it
+2021-11-14 14:43:08,748 Philosopher 1 is having dinner
+2021-11-14 14:43:09,691 Philosopher 0 is done eating, putting down his forks
+2021-11-14 14:43:09,691 Philosopher 4 receiving Fork 0 and washing it
+2021-11-14 14:43:09,691 Philosopher 4 is having dinner
+2021-11-14 14:43:11,688 Philosopher 4 is done eating, putting down his forks
+2021-11-14 14:43:11,688 Philosopher 3 receiving Fork 4 and washing it
+2021-11-14 14:43:11,688 Philosopher 3 is having dinner
+2021-11-14 14:43:12,315 Philosopher 0 is satisfied with food
+2021-11-14 14:43:12,486 Philosopher 2 is satisfied with food
+2021-11-14 14:43:13,117 Philosopher 1 is done eating, putting down his forks
+2021-11-14 14:43:13,946 Philosopher 3 is done eating, putting down his forks
+2021-11-14 14:43:15,555 Philosopher 4 is satisfied with food
+2021-11-14 14:43:15,586 Philosopher 1 is satisfied with food
+2021-11-14 14:43:18,470 Philosopher 3 is satisfied with food
